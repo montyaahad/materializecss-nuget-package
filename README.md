@@ -5,3 +5,5 @@ Created and designed by [Google, Material Design](http://materializecss.com/gett
 To install the package, go to package manager console and run the following command -
 
 `PM> Install-Package materializecss`
+
+Then you will find all the necessary contents under your project's `Content/materialize-vX.XX.X` folder.
