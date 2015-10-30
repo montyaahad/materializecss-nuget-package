@@ -6,4 +6,4 @@ To install the package, go to package manager console and run the following comm
 
 `PM> Install-Package materializecss`
 
-Then you will find all the necessary contents under your project's `Content/materialize-vX.XX.X` folder.
+Then you will find all the necessary contents under your project's `Content>materialize-vX.XX.X` folder.
