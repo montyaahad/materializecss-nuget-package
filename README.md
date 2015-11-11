@@ -8,6 +8,7 @@ To install the package, go to package manager console and run the following comm
 
 Then you will find all the necessary contents under your project's `Content>materialize-vX.XX.X` folder.
 
+Add the following `<link>` and `<script>` elements in your HTML:
     
     <!--Import Google Icon Font-->
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
